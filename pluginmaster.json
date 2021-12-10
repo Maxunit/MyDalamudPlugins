@@ -6,11 +6,11 @@
         "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button. For example, a 1-2-3 combo would become 1-1-1.",
         "InternalName": "XIVComboExpandedCustomized",
         "AssemblyVersion": "1.3.0.7",
-        "RepoUrl": "https://github.com/daemitus/XIVComboPlugin",
+        "RepoUrl": "https://github.com/maxunit/XIVComboPlugin",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 5,
         "LoadPriority": 0,
-        "IconUrl": "https://raw.githubusercontent.com/daemitus/XIVComboPlugin/master/res/icon.png",
+        "IconUrl": "https://raw.githubusercontent.com/maxunit/XIVComboPlugin/master/res/icon.png",
         "ImageUrls": [],
         "DownloadLinkInstall": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/XIVComboExpandedCustomized/latest.zip",
         "IsHide": false,
@@ -18,6 +18,6 @@
         "DownloadLinkTesting": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/XIVComboExpandedCustomized/latest.zip",
         "DownloadLinkUpdate": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/XIVComboExpandedCustomized/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1639118122"
+        "LastUpdated": "1639118189"
     }
 ]

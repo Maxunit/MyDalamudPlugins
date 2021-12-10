@@ -1,3 +1,3 @@
-Daemitus' Dalamud Plugins
+XIV Combo Expanded Customized
 
 Drop `https://github.com/maxunit/MyDalamudPlugins/raw/master/pluginmaster.json` into your third party repo URL list.

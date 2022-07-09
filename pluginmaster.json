@@ -12,7 +12,7 @@
             "customize",
             "XIV Tools"
         ],
-        "DalamudApiLevel": 5,
+        "DalamudApiLevel": 6,
         "LoadPriority": 0,
         "DownloadLinkInstall": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/CustomizePlus/latest.zip",
         "IsHide": false,
@@ -20,7 +20,7 @@
         "DownloadLinkTesting": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/CustomizePlus/latest.zip",
         "DownloadLinkUpdate": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/CustomizePlus/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1657390803"
+        "LastUpdated": "1657391047"
     },
     {
         "Author": "attick, daemitus, Evil-Crab, PrincessRTFM, Maxunit",
@@ -41,6 +41,6 @@
         "DownloadLinkTesting": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/XIVComboExpandedCustomized/latest.zip",
         "DownloadLinkUpdate": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/XIVComboExpandedCustomized/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1657390803"
+        "LastUpdated": "1657391047"
     }
 ]

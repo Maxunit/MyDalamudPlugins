@@ -10,7 +10,7 @@
     "customize",
     "XIV Tools"
   ],
-  "DalamudApiLevel": 5,
+  "DalamudApiLevel": 6,
   "LoadPriority": 0,
   "Punchline": "Customize your character beyond FFXIV's limitations."
 }

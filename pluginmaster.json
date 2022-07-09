@@ -1,5 +1,28 @@
 [
     {
+        "Author": "XIV Tools",
+        "Name": "Customize+",
+        "Punchline": "Customize your character beyond FFXIV's limitations.",
+        "Description": "A plugin that allows you to create and apply Anamnesis-style body scaling full time.",
+        "InternalName": "CustomizePlus",
+        "AssemblyVersion": "0.0.0.61",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "anamnesis",
+            "customize",
+            "XIV Tools"
+        ],
+        "DalamudApiLevel": 5,
+        "LoadPriority": 0,
+        "DownloadLinkInstall": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/CustomizePlus/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/CustomizePlus/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/CustomizePlus/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "1657390106"
+    },
+    {
         "Author": "attick, daemitus, Evil-Crab, PrincessRTFM, Maxunit",
         "Name": "XIV Combo Expanded Customized",
         "Punchline": "Condenses combos and mutually exclusive abilities onto a single button.",
@@ -18,6 +41,6 @@
         "DownloadLinkTesting": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/XIVComboExpandedCustomized/latest.zip",
         "DownloadLinkUpdate": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/XIVComboExpandedCustomized/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1657077787"
+        "LastUpdated": "1657390106"
     }
 ]

@@ -5,7 +5,7 @@
         "Punchline": "Customize your character beyond FFXIV's limitations.",
         "Description": "A plugin that allows you to create and apply Anamnesis-style body scaling full time.",
         "InternalName": "CustomizePlus",
-        "AssemblyVersion": "0.0.0.61",
+        "AssemblyVersion": "0.0.0.7",
         "ApplicableVersion": "any",
         "Tags": [
             "anamnesis",
@@ -20,7 +20,7 @@
         "DownloadLinkTesting": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/CustomizePlus/latest.zip",
         "DownloadLinkUpdate": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/CustomizePlus/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1657391833"
+        "LastUpdated": "1657546074"
     },
     {
         "Author": "attick, daemitus, Evil-Crab, PrincessRTFM, Maxunit",
@@ -41,6 +41,6 @@
         "DownloadLinkTesting": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/XIVComboExpandedCustomized/latest.zip",
         "DownloadLinkUpdate": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/XIVComboExpandedCustomized/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1657391833"
+        "LastUpdated": "1657546074"
     }
 ]

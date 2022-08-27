@@ -2,7 +2,7 @@
   "Author": "XIV Tools",
   "Name": "Customize+",
   "InternalName": "CustomizePlus",
-  "AssemblyVersion": "0.0.1.0",
+  "AssemblyVersion": "0.0.1.1",
   "Description": "A plugin that allows you to create and apply Anamnesis-style body scaling full time.",
   "ApplicableVersion": "any",
   "Tags": [

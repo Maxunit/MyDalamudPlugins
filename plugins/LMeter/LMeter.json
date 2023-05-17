@@ -1,0 +1,18 @@
+{
+  "Author": "Lichie",
+  "Name": "LMeter Customized",
+  "InternalName": "LMeter",
+  "AssemblyVersion": "0.1.8.0",
+  "Description": "Renders ACT combat log data as a plugin instead of using a web based overlay. Customized with INNACT Support.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/lichie567/LMeter",
+  "Tags": [
+    "UI"
+  ],
+  "DalamudApiLevel": 8,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "LoadPriority": 0,
+  "Punchline": "Plugin to display ACT combat log data.",
+  "AcceptsFeedback": true
+}

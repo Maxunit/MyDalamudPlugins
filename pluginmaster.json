@@ -18,28 +18,6 @@
         "DownloadLinkTesting": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/XIVComboExpandedCustomized/latest.zip",
         "DownloadLinkUpdate": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/XIVComboExpandedCustomized/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1696619262"
-    },
-    {
-        "Author": "Lichie",
-        "Name": "LMeter Customized",
-        "Punchline": "Plugin to display ACT combat log data.",
-        "Description": "Renders ACT combat log data as a plugin instead of using a web based overlay. Customized with INNACT Support.",
-        "InternalName": "LMeter",
-        "AssemblyVersion": "0.1.8.0",
-        "RepoUrl": "https://github.com/lichie567/LMeter",
-        "ApplicableVersion": "any",
-        "Tags": [
-            "UI"
-        ],
-        "DalamudApiLevel": 8,
-        "LoadPriority": 0,
-        "DownloadLinkInstall": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/LMeter/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/LMeter/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/LMeter/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdated": "1696619262"
+        "LastUpdated": "1696713316"
     }
 ]

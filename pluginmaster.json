@@ -22,7 +22,33 @@
         "DownloadLinkTesting": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/NoxEmoteLog/latest.zip",
         "DownloadLinkUpdate": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/NoxEmoteLog/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1746539996"
+        "LastUpdated": "1746543622"
+    },
+    {
+        "Author": "Aida Enna, Edited by Rico Stryker",
+        "Name": "Doorbell Advanced",
+        "Punchline": "Play a chime when someone comes into a house.",
+        "Description": "Play a chime when someone comes into a house, when they leave or when entering a house people are already inside.\n\nIcon by Flaticon",
+        "InternalName": "NoxDoorbell",
+        "AssemblyVersion": "1.0.3.9",
+        "RepoUrl": "https://github.com/wolfricoz/Doorbell",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "doorbell",
+            "house",
+            "aida",
+            "rico"
+        ],
+        "DalamudApiLevel": 12,
+        "LoadPriority": 0,
+        "IconUrl": "https://i.imgur.com/wtOolxu.png",
+        "DownloadLinkInstall": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/NoxDoorbell/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/NoxDoorbell/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/NoxDoorbell/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "1746543622"
     },
     {
         "Author": "attick, daemitus, Evil-Crab, PrincessRTFM, Maxunit",
@@ -43,6 +69,6 @@
         "DownloadLinkTesting": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/XIVComboExpandedCustomized/latest.zip",
         "DownloadLinkUpdate": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/XIVComboExpandedCustomized/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1746539996"
+        "LastUpdated": "1746543622"
     }
 ]

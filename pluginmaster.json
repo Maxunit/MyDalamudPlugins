@@ -1,5 +1,30 @@
 [
     {
+        "Author": "Speedas, Edited by Rico Stryker, Renamed by Maxunit",
+        "Name": "Nox Emote log",
+        "Punchline": "Shows all emotes used in the instance and who used them.",
+        "Description": "Shows all emotes used in the instance and who used them.",
+        "InternalName": "NoxEmoteLog",
+        "AssemblyVersion": "1.1.4.0",
+        "RepoUrl": "https://github.com/Maxunit/NoxEmoteLog",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "EmoteLog",
+            "Nox",
+            "rico",
+            "maxunit"
+        ],
+        "DalamudApiLevel": 12,
+        "LoadPriority": 0,
+        "DownloadLinkInstall": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/NoxEmoteLog/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/NoxEmoteLog/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/NoxEmoteLog/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "1746539996"
+    },
+    {
         "Author": "attick, daemitus, Evil-Crab, PrincessRTFM, Maxunit",
         "Name": "XIV Combo Expanded Customized",
         "Punchline": "Condenses combos and mutually exclusive abilities onto a single button.",
@@ -18,6 +43,6 @@
         "DownloadLinkTesting": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/XIVComboExpandedCustomized/latest.zip",
         "DownloadLinkUpdate": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/XIVComboExpandedCustomized/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1720470984"
+        "LastUpdated": "1746539996"
     }
 ]

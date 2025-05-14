@@ -23,6 +23,31 @@
         "DownloadLinkTesting": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/ZanarkandDoorbell/latest.zip",
         "DownloadLinkUpdate": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/ZanarkandDoorbell/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1747258783"
+        "LastUpdated": "1747259016"
+    },
+    {
+        "Author": "Speedas, Edited by Rico Stryker, Renamed by Maxunit",
+        "Name": "Zanarkand Emote log",
+        "Punchline": "Shows all emotes used in the instance and who used them.",
+        "Description": "Shows all emotes used in the instance and who used them.",
+        "InternalName": "ZanarkandEmoteLog",
+        "AssemblyVersion": "1.1.4.0",
+        "RepoUrl": "https://github.com/Maxunit/NoxEmoteLog",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "EmoteLog",
+            "Zanarkand",
+            "rico",
+            "maxunit"
+        ],
+        "DalamudApiLevel": 12,
+        "LoadPriority": 0,
+        "DownloadLinkInstall": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/ZanarkandEmoteLog/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/ZanarkandEmoteLog/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/ZanarkandEmoteLog/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "1747259016"
     }
 ]

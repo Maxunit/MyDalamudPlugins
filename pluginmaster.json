@@ -22,7 +22,7 @@
         "DownloadLinkTesting": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/NoxEmoteLog/latest.zip",
         "DownloadLinkUpdate": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/NoxEmoteLog/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1747257053"
+        "LastUpdated": "1747257906"
     },
     {
         "Author": "Aida Enna, Edited by Rico Stryker and Nyanko, Rebranded by Maxunit",
@@ -48,7 +48,32 @@
         "DownloadLinkTesting": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/ZanarkandDoorbell/latest.zip",
         "DownloadLinkUpdate": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/ZanarkandDoorbell/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1747257053"
+        "LastUpdated": "1747257906"
+    },
+    {
+        "Author": "Speedas, Edited by Rico Stryker, Renamed by Maxunit",
+        "Name": "Nox Emote log",
+        "Punchline": "Shows all emotes used in the instance and who used them.",
+        "Description": "Shows all emotes used in the instance and who used them.",
+        "InternalName": "ZanarkandEmoteLog",
+        "AssemblyVersion": "1.1.4.0",
+        "RepoUrl": "https://github.com/Maxunit/NoxEmoteLog",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "EmoteLog",
+            "Nox",
+            "rico",
+            "maxunit"
+        ],
+        "DalamudApiLevel": 12,
+        "LoadPriority": 0,
+        "DownloadLinkInstall": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/ZanarkandEmoteLog/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/ZanarkandEmoteLog/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/ZanarkandEmoteLog/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "1747257906"
     },
     {
         "Author": "Aida Enna, Edited by Rico Stryker, Rebranded by Maxunit",
@@ -75,6 +100,6 @@
         "DownloadLinkTesting": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/NoxDoorbell/latest.zip",
         "DownloadLinkUpdate": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/NoxDoorbell/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1747257053"
+        "LastUpdated": "1747257906"
     }
 ]

@@ -5,7 +5,7 @@
         "Punchline": "Shows all emotes used in the instance and who used them.",
         "Description": "Shows all emotes used in the instance and who used them.",
         "InternalName": "ZanarkandEmoteLog",
-        "AssemblyVersion": "1.1.4.0",
+        "AssemblyVersion": "1.1.5.0",
         "RepoUrl": "https://github.com/Maxunit/NoxEmoteLog",
         "ApplicableVersion": "any",
         "Tags": [
@@ -14,7 +14,7 @@
             "rico",
             "maxunit"
         ],
-        "DalamudApiLevel": 12,
+        "DalamudApiLevel": 13,
         "LoadPriority": 0,
         "DownloadLinkInstall": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/ZanarkandEmoteLog/latest.zip",
         "IsHide": false,
@@ -22,7 +22,7 @@
         "DownloadLinkTesting": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/ZanarkandEmoteLog/latest.zip",
         "DownloadLinkUpdate": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/ZanarkandEmoteLog/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1757002190"
+        "LastUpdated": "1757002987"
     },
     {
         "Author": "Aida Enna, Edited by Rico Stryker and Nyanko, Rebranded by Maxunit",
@@ -48,6 +48,6 @@
         "DownloadLinkTesting": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/ZanarkandDoorbell/latest.zip",
         "DownloadLinkUpdate": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/ZanarkandDoorbell/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1757002190"
+        "LastUpdated": "1757002987"
     }
 ]

@@ -22,7 +22,7 @@
         "DownloadLinkTesting": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/ZanarkandEmoteLog/latest.zip",
         "DownloadLinkUpdate": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/ZanarkandEmoteLog/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1762211443"
+        "LastUpdated": "1762211805"
     },
     {
         "Author": "Aida Enna, Edited by Rico Stryker and Nyanko, Rebranded by Maxunit",
@@ -48,7 +48,7 @@
         "DownloadLinkTesting": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/ZanarkandDoorbell/latest.zip",
         "DownloadLinkUpdate": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/ZanarkandDoorbell/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1762211443"
+        "LastUpdated": "1762211805"
     },
     {
         "Author": "SaltyCog",
@@ -59,7 +59,7 @@
         "AssemblyVersion": "1.1.1.0",
         "RepoUrl": "https://github.com/saltycog/ffxiv-startup-commands",
         "ApplicableVersion": "any",
-        "DalamudApiLevel": 12,
+        "DalamudApiLevel": 13,
         "LoadPriority": 0,
         "IconUrl": "https://github.com/saltycog/ffxiv-startup-commands/raw/master/icon.png",
         "DownloadLinkInstall": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/StartupCommands/latest.zip",
@@ -68,6 +68,6 @@
         "DownloadLinkTesting": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/StartupCommands/latest.zip",
         "DownloadLinkUpdate": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/StartupCommands/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1762211443"
+        "LastUpdated": "1762211805"
     }
 ]

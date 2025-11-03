@@ -1,0 +1,17 @@
+{
+  "Author": "SaltyCog",
+  "Name": "Startup Commands",
+  "InternalName": "StartupCommands",
+  "AssemblyVersion": "1.1.1.0",
+  "Description": "Perform various behaviors/commands right after logging into a character.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/saltycog/ffxiv-startup-commands",
+  "DalamudApiLevel": 12,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "IconUrl": "https://github.com/saltycog/ffxiv-startup-commands/raw/master/icon.png",
+  "Punchline": "Perform various behaviors/commands right after logging into a character.",
+  "AcceptsFeedback": true
+}

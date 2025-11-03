@@ -2,7 +2,7 @@
   "Author": "SaltyCog",
   "Name": "Startup Commands",
   "InternalName": "StartupCommands",
-  "AssemblyVersion": "1.1.1.0",
+  "AssemblyVersion": "1.3.0.1",
   "Description": "Perform various behaviors/commands right after logging into a character.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/saltycog/ffxiv-startup-commands",

@@ -22,7 +22,7 @@
         "DownloadLinkTesting": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/ZanarkandEmoteLog/latest.zip",
         "DownloadLinkUpdate": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/ZanarkandEmoteLog/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1762213945"
+        "LastUpdated": "1762214359"
     },
     {
         "Author": "Aida Enna, Edited by Rico Stryker and Nyanko, Rebranded by Maxunit",
@@ -48,7 +48,7 @@
         "DownloadLinkTesting": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/ZanarkandDoorbell/latest.zip",
         "DownloadLinkUpdate": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/ZanarkandDoorbell/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1762213945"
+        "LastUpdated": "1762214359"
     },
     {
         "Author": "SaltyCog",
@@ -56,7 +56,7 @@
         "Punchline": "Perform various behaviors/commands right after logging into a character.",
         "Description": "Perform various behaviors/commands right after logging into a character.",
         "InternalName": "StartupCommands",
-        "AssemblyVersion": "1.1.1.0",
+        "AssemblyVersion": "1.3.0.1",
         "RepoUrl": "https://github.com/saltycog/ffxiv-startup-commands",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 13,
@@ -68,6 +68,6 @@
         "DownloadLinkTesting": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/StartupCommands/latest.zip",
         "DownloadLinkUpdate": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/StartupCommands/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1762213945"
+        "LastUpdated": "1762214359"
     }
 ]

@@ -6,7 +6,7 @@
   "Description": "Perform various behaviors/commands right after logging into a character.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/saltycog/ffxiv-startup-commands",
-  "DalamudApiLevel": 12,
+  "DalamudApiLevel": 13,
   "LoadRequiredState": 0,
   "LoadSync": false,
   "CanUnloadAsync": false,

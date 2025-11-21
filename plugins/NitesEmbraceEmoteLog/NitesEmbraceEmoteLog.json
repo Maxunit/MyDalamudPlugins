@@ -1,0 +1,22 @@
+{
+  "Author": "Speedas, Edited by Rico Stryker, Renamed by Maxunit",
+  "Name": "Nite's Embrace Emote log",
+  "InternalName": "NitesEmbraceEmoteLog",
+  "AssemblyVersion": "1.1.5.0",
+  "Description": "Shows all emotes used in the instance and who used them.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/Maxunit/NitesEmbraceEmoteLog",
+  "Tags": [
+    "EmoteLog",
+    "Nite's Embrace",
+    "rico",
+    "maxunit"
+  ],
+  "DalamudApiLevel": 13,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "Shows all emotes used in the instance and who used them.",
+  "AcceptsFeedback": true
+}

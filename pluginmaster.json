@@ -22,7 +22,7 @@
         "DownloadLinkTesting": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/ZanarkandEmoteLog/latest.zip",
         "DownloadLinkUpdate": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/ZanarkandEmoteLog/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1763737754"
+        "LastUpdated": "1765229962"
     },
     {
         "Author": "Speedas, Edited by Rico Stryker, Renamed by Maxunit",
@@ -47,7 +47,7 @@
         "DownloadLinkTesting": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/NitesEmbraceEmoteLog/latest.zip",
         "DownloadLinkUpdate": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/NitesEmbraceEmoteLog/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1763737754"
+        "LastUpdated": "1765229962"
     },
     {
         "Author": "Aida Enna, Edited by Rico Stryker and Nyanko, Rebranded by Maxunit",
@@ -73,33 +73,7 @@
         "DownloadLinkTesting": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/ZanarkandDoorbell/latest.zip",
         "DownloadLinkUpdate": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/ZanarkandDoorbell/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1763737754"
-    },
-    {
-        "Author": "Aida Enna, Edited by Rico Stryker and Nyanko, Rebranded by Maxunit",
-        "Name": "Nite's Embrace Doorbell",
-        "Punchline": "Play a chime when someone comes into a house.",
-        "Description": "Play a chime when someone comes into a house, when they leave or when entering a house people are already inside.\n\nIcon by Flaticon",
-        "InternalName": "NitesEmbraceDoorbell",
-        "AssemblyVersion": "1.0.4.0",
-        "RepoUrl": "https://github.com/Maxunit/NitesEmbraceDoorbell",
-        "ApplicableVersion": "any",
-        "Tags": [
-            "doorbell",
-            "house",
-            "aida",
-            "rico"
-        ],
-        "DalamudApiLevel": 13,
-        "LoadPriority": 0,
-        "IconUrl": "https://i.imgur.com/wtOolxu.png",
-        "DownloadLinkInstall": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/NitesEmbraceDoorbell/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/NitesEmbraceDoorbell/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/NitesEmbraceDoorbell/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdated": "1763737754"
+        "LastUpdated": "1765229962"
     },
     {
         "Author": "SaltyCog",
@@ -119,6 +93,6 @@
         "DownloadLinkTesting": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/StartupCommands/latest.zip",
         "DownloadLinkUpdate": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/StartupCommands/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1763737754"
+        "LastUpdated": "1765229962"
     }
 ]

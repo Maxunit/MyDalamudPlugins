@@ -2,7 +2,7 @@
   "Author": "Aida Enna, Edited by Rico Stryker and Nyanko, Rebranded by Maxunit",
   "Name": "Zanarkand Doorbell",
   "InternalName": "ZanarkandDoorbell",
-  "AssemblyVersion": "1.0.4.0",
+  "AssemblyVersion": "1.0.4.1",
   "Description": "Play a chime when someone comes into a house, when they leave or when entering a house people are already inside.\n\nIcon by Flaticon",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/Maxunit/ZanarkandDoorbell",
@@ -12,7 +12,7 @@
     "aida",
     "rico"
   ],
-  "DalamudApiLevel": 13,
+  "DalamudApiLevel": 14,
   "LoadRequiredState": 0,
   "LoadSync": false,
   "CanUnloadAsync": false,

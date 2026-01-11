@@ -1,0 +1,27 @@
+{
+  "Author": "karashiiro, maxunit",
+  "Name": "PingPluginCustom",
+  "InternalName": "PingPlugin",
+  "AssemblyVersion": "2.10.0.0",
+  "Description": "A ping display plugin for Dalamud. Customized.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/Maxunit/PingPlugin",
+  "Tags": [
+    "ping",
+    "monitor",
+    "utility",
+    "tool"
+  ],
+  "DalamudApiLevel": 14,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "ImageUrls": [
+    "https://raw.githubusercontent.com/karashiiro/PingPlugin/main/Assets/image1.png"
+  ],
+  "IconUrl": "https://raw.githubusercontent.com/karashiiro/PingPlugin/main/Assets/icon.png",
+  "Punchline": "A ping display plugin for Dalamud. Customized.",
+  "Changelog": "Update for 7.4 & API 14. - BoxuChan",
+  "AcceptsFeedback": true
+}

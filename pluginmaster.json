@@ -22,37 +22,7 @@
         "DownloadLinkTesting": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/ZanarkandEmoteLog/latest.zip",
         "DownloadLinkUpdate": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/ZanarkandEmoteLog/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1768105020"
-    },
-    {
-        "Author": "karashiiro, maxunit",
-        "Name": "PingPluginCustom",
-        "Punchline": "A ping display plugin for Dalamud. Customized.",
-        "Description": "A ping display plugin for Dalamud. Customized.",
-        "Changelog": "Update for 7.4 & API 14. - BoxuChan",
-        "InternalName": "PingPlugin",
-        "AssemblyVersion": "2.10.0.0",
-        "RepoUrl": "https://github.com/Maxunit/PingPlugin",
-        "ApplicableVersion": "any",
-        "Tags": [
-            "ping",
-            "monitor",
-            "utility",
-            "tool"
-        ],
-        "DalamudApiLevel": 14,
-        "LoadPriority": 0,
-        "IconUrl": "https://raw.githubusercontent.com/karashiiro/PingPlugin/main/Assets/icon.png",
-        "ImageUrls": [
-            "https://raw.githubusercontent.com/karashiiro/PingPlugin/main/Assets/image1.png"
-        ],
-        "DownloadLinkInstall": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/PingPlugin/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/PingPlugin/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/PingPlugin/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdated": "1768105020"
+        "LastUpdated": "1768105229"
     },
     {
         "Author": "Aida Enna, Edited by Rico Stryker and Nyanko, Rebranded by Maxunit",
@@ -78,7 +48,7 @@
         "DownloadLinkTesting": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/ZanarkandDoorbell/latest.zip",
         "DownloadLinkUpdate": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/ZanarkandDoorbell/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1768105020"
+        "LastUpdated": "1768105229"
     },
     {
         "Author": "SaltyCog",
@@ -98,6 +68,6 @@
         "DownloadLinkTesting": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/StartupCommands/latest.zip",
         "DownloadLinkUpdate": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/StartupCommands/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1768105020"
+        "LastUpdated": "1768105229"
     }
 ]
